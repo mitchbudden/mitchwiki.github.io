@@ -1,0 +1,72 @@
+body {
+  background-image: url("https://tctechcrunch2011.files.wordpress.com/2015/02/wikipedia-down.png");
+  background-size: 100%;
+}
+
+#title {
+  padding-top: 30px;
+  text-shadow: 3px 3px black;
+  text-align: center;
+  color: white;
+  font-family: Lucida Console;
+}
+
+#form {
+  padding-top: 2em;
+
+  text-align: center;
+}
+
+#lookup {
+  text-align: left;
+  width: 20em;
+  border-style: solid;
+  border-color: black;
+  border-thickness: 5px;
+}
+
+#submit {
+  text-align: center;
+  width: 110px;
+  margin-top: 1em;
+  font-size: 15px;
+  font-family: Lucida Console;
+  border-style: solid;
+  border-color: black;
+  border-thickness: 5px;
+  float: right;
+  margin-right: 2em;
+}
+
+#random {
+  text-align: center;
+  width: 130px;
+  margin-top: 1em;
+  font-size: 15px;
+  font-family: Lucida Console;
+  border-style: solid;
+  border-color: black;
+  border-thickness: 5px;
+
+}
+
+#searchResults {
+  text-align: center;
+  color: black;
+  margin-top: 5em;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-thickness: 5px;
+  width: 70%;
+  margin-left: 15%;  
+  font-size: 20px;
+}
+
+#credits {
+  text-align: center;
+  font-size: 10px;
+
+}
+
+
